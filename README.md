@@ -6,4 +6,4 @@ The structure will follow a lullabot boilerplate approach so the codebase
 is in docroot. All site-specific fonts, libraries, modules, and themes 
 should be placed in their respective directories.
 
-Forked branch; will have merge pull with master
+Forked branch; will have merge pull with master; dummy comment, ignore
